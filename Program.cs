@@ -49,7 +49,7 @@ namespace secao06_exercicio_fixacao_conjuntos_aula83
             D.UnionWith(B);
             D.UnionWith(C);
             Console.WriteLine("Total de Alunos: " + D.Count);
-
+            Console.ReadLine();
         }
     }
 }
