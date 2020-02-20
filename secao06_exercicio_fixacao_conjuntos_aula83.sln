@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secao06_exercicio_fixacao_conjuntos_aula83", "secao06_exercicio_fixacao_conjuntos_aula83.csproj", "{1CC3EC0A-8862-447A-B8AC-3EDB2DC006A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CC3EC0A-8862-447A-B8AC-3EDB2DC006A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC3EC0A-8862-447A-B8AC-3EDB2DC006A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC3EC0A-8862-447A-B8AC-3EDB2DC006A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC3EC0A-8862-447A-B8AC-3EDB2DC006A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7536A903-CE1C-49AD-A33D-6598203975D6}
+	EndGlobalSection
+EndGlobal
